@@ -1,0 +1,1 @@
+[vc_row][vc_column el_class="yt-home-revolution-16"][rev_slider_vc alias="smart-tech-revolution-16"][/vc_column][/vc_row]
