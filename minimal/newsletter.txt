@@ -1,12 +1,11 @@
-[vc_row css=".vc_custom_1509376803392{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(http://localhost/minimal/wp-content/uploads/2016/12/bkg_newsletter_popup.jpg?id=2451) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vc_row_inner css=".vc_custom_1509377542164{background-color: #f7f7f7 !important;}"][vc_column_inner][vc_column_text css=".vc_custom_1509378511952{margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"]
+[vc_row css=".vc_custom_1509376803392{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(http://localhost/minimal/wp-content/uploads/2016/12/bkg_newsletter_popup.jpg?id=2451) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vc_row_inner css=".vc_custom_1509377542164{background-color: #f7f7f7 !important;}"][vc_column_inner][vc_column_text css=".vc_custom_1509462520887{margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"]
+<p style="width: 300px; margin: 0; float: left;"><img class="aligncenter size-full wp-image-4073" src="http://localhost/wordpress/wordpress_team1_minimals/wp-content/uploads/2016/12/img-newsletter.jpg" alt="" width="300" height="600" /></p>
 
-
-PURE NEWSLETTERS
-
-Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
+<div class="newsletter-content" style="text-align: center; overflow: hidden; padding: 90px 70px 0;">
+<p style="text-align: center; color: #303030; font-size: 40px; font-family: 'Poppins'; font-weight: 300; line-height: 1.4; margin-bottom: 20px;">PURE NEWSLETTERS</p>
+<p style="padding-bottom: 55px;"><span style="font-family: 'Poppins'; font-size: 16px; font-weight: 300; color: #898989;">Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span></p>
 [mc4wp_form id="724"]
+<p style="font-family: 'Poppins'; font-size: 14px; font-weight: 300; color: #898989;">* Donec id elit non mi porta gravida at eget metus.</p>
 
-* Donec id elit non mi porta gravida at eget metus.
-
+</div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
