@@ -2,23 +2,11 @@
 
 Aenean imperdiet ultricies nisi vel augue ullamcorper ultricies nisi
 
-[mc4wp_form id="724"][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="extra-yt-footer-main extra-yt-footer-main-3" css=".vc_custom_1510220600244{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #1d1d1d !important;}"][vc_column width="1/4" css=".vc_custom_1510113001509{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="Categories"][vc_column_text el_class="extra-yt-footer-link" css=".vc_custom_1510218833505{margin-bottom: 30px !important;}"]Pendants
-Table & Desk Lamps
-Wall & Ceiling
-Floor Lamps
-Outdoor[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1510113010629{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="Helpful Links"][vc_column_text el_class="extra-yt-footer-link" css=".vc_custom_1510218901160{margin-bottom: 30px !important;}"]Products
-Find a Store
-Features
-Privacy Policy
-Support[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1510113023413{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="My Account"][vc_column_text el_class="extra-yt-footer-link" css=".vc_custom_1510218961718{margin-bottom: 30px !important;}"]Login
-My Account
-My Cart
-Wishlist
-Checkout[/vc_column_text][/vc_column][vc_column width="1/4" css=".vc_custom_1510113034526{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="About Us"][vc_column_text css=".vc_custom_1510114414144{margin-bottom: 30px !important;}"]Address: 123 Roadway St. New Youk
+[mc4wp_form id="724"][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="extra-yt-footer-main extra-yt-footer-main-3" css=".vc_custom_1510220600244{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #1d1d1d !important;}"][vc_column width="1/4" css=".vc_custom_1510113001509{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="Categories"][vc_wp_custommenu nav_menu="185"][/vc_column][vc_column width="1/4" css=".vc_custom_1510113010629{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="Helpful Links"][vc_wp_custommenu nav_menu="186"][/vc_column][vc_column width="1/4" css=".vc_custom_1510113023413{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="My Account"][vc_wp_custommenu nav_menu="187"][/vc_column][vc_column width="1/4" css=".vc_custom_1510113034526{padding-top: 0px !important;}"][yesshop_heading heading="h4" text="About Us"][vc_column_text css=".vc_custom_1510114414144{margin-bottom: 30px !important;}"]Address: 123 Roadway St. New Youk
 
 Phone: +01 1234 5678
 
-Email: shome@themeyeti.com[/vc_column_text][vc_single_image image="4080" img_size="full" onclick="custom_link" img_link_target="_blank"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1510220903131{padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}" el_class="extra-yt-footer-main-bottom extra-yt-footer-main-bottom-3"][vc_column css=".vc_custom_1510048324380{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text el_class="extra-yt-copyright" css=".vc_custom_1510221192360{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"]
+Email: shome@themeyeti.com[/vc_column_text][vc_single_image image="4080" img_size="full" onclick="custom_link" img_link_target="_blank"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1510296068618{padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}" el_class="extra-yt-footer-main-bottom extra-yt-footer-bottom-3"][vc_column css=".vc_custom_1510048324380{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_text el_class="extra-yt-copyright" css=".vc_custom_1510221192360{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"]
 
 ©2017 Powered by PÜRE™. All rights reserved.
 
